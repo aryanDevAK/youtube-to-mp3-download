@@ -1,6 +1,7 @@
 # YouTube to MP3 Download
 
 A simple web application to download YouTube videos as MP3 files.
+![img](image.png)
 
 ## Features
 
@@ -29,13 +30,6 @@ A simple web application to download YouTube videos as MP3 files.
 1. Enter the YouTube video URL.
 2. Click the "Download MP3" button.
 3. Save the MP3 file to your device.
-
-## Technologies Used
-
-- React
-- Node.js
-- Express
-- youtube-dl or ytdl-core
 
 ## License
 
